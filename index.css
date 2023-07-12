@@ -1,0 +1,80 @@
+body {
+    margin: 0;
+    
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    font-size: 40px;
+    padding: 60px;
+    margin: auto;
+}
+#border{
+border: 2px solid red;
+padding:50px 0px 100px 60px ;
+background: #1F2937;
+border: none;
+
+
+}
+#line{
+    color: #4ADF86;
+    margin-top: -50px;
+}
+#tagLine{
+    margin-top: -10px;
+    color: #D5D4D8; 
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+}
+button{
+    margin-top: 20px;
+    border-radius: 6px;
+background: #10B981;
+border: none;
+padding: 12px 18px 12px 16px;
+color: var(--white, #FFF);
+text-align: center;
+}
+
+#password{
+    width: 415px;
+    height: 70px;
+    margin-top: 100px;
+    text-align: center;
+    border: 1px solid red;
+    padding-top: 18px;
+    background-color: #273549;
+    border: none;
+    color: #55F991;
+   background-size: cover;
+   margin-top: 100px;
+   margin-left: 0px;
+   margin-right: 15px;
+   
+}
+#text{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    
+}
+
+#password2{
+    width: 415px;
+    height: 70px;
+    margin-top: 100px;
+    text-align: center;
+    border: 1px solid red;
+    padding-top: 18px;
+    background-color: #273549;
+    border: none;
+    color: #55F991;
+   background-size: cover;
+   margin-top: 100px;
+   margin-left: 0px;
+   margin-right: 15px;
+   
+}
